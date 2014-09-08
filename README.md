@@ -1,4 +1,4 @@
-VidCoin-iOS-SDK
+VidCoin-AdobeAir-ANE
 ===============
 ##Download and install
 
