@@ -21,3 +21,4 @@ To update, simply remove the old version of the .ane from the project, and add t
 ###v1.0.0
 *(Released on 08 Sep. 2014)*
 - First public release
+- Support for iOS
