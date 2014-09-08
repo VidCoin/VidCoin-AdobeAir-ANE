@@ -6,6 +6,12 @@ VidCoin-iOS-SDK
 
 To update, simply remove the old version of the .ane from the project, and add the new .ane file.
 
+###Table of compatibility
+
+| ANE version  | Packed iOS SDK version | Packed Android SDK versions |
+| :-------------: | :-------------: | :-------------: |
+| 1.0.0 *(latest)*  | 1.1.2 *(latest)* | *NA* - If you're interested, please [contact us](mailto:publishers@vidcoin.com) ! |
+
 
 ##Preview
 ![VidCoin Mobile Overlay](https://raw.githubusercontent.com/VidCoin/VidCoin-iOS-SDK/gh-pages/images/vc_preview.png "VidCoin Mobile Overlay")
