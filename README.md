@@ -15,7 +15,7 @@ To update, simply remove the old version of the .ane from the project, and add t
 
 
 ##Preview
-![VidCoin Mobile Overlay](https://raw.githubusercontent.com/VidCoin/VidCoin-iOS-SDK/gh-pages/images/vc_preview.png "VidCoin Mobile Overlay")
+![VidCoin Mobile Overlay](https://googledrive.com/host/0B6TMHf2nEKbFdFQxTjJJaGZUWm8 "VidCoin Mobile Overlay")
 
 ##Changelog
 
