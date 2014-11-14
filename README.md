@@ -10,7 +10,7 @@ To update, simply remove the old version of the .ane from the project, and add t
 
 | ANE version  | Packed iOS SDK version | Packed Android SDK versions |
 | :-------------: | :-------------: | :-------------: |
-| 1.1.0 *(latest)*  | 1.2.0 *(latest)* | *NA* - If you're interested, please [contact us](mailto:publishers@vidcoin.com) ! |
+| 1.1.0 *(latest)*  | 1.2.0 *(latest)* | *NA* - If you're interested, please [let us know](mailto:publishers@vidcoin.com) ! |
 | 1.0.0 | 1.1.2 | *NA* |
 
 
