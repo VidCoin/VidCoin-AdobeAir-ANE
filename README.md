@@ -10,7 +10,8 @@ To update, simply remove the old version of the .ane from the project, and add t
 
 | ANE version  | Packed iOS SDK version | Packed Android SDK versions |
 | :-------------: | :-------------: | :-------------: |
-| 1.1.0 *(latest)*  | 1.2.0 *(latest)* | *NA* - If you're interested, please [let us know](mailto:publishers@vidcoin.com) ! |
+| 1.2.0 *(latest)* | 1.2.0 *(latest)* | *NA* - If you're interested, please [let us know](mailto:publishers@vidcoin.com) ! |
+| 1.1.0 | 1.2.0 *(latest)* | *NA* |
 | 1.0.0 | 1.1.2 | *NA* |
 
 
@@ -18,6 +19,10 @@ To update, simply remove the old version of the .ane from the project, and add t
 ![VidCoin Mobile Overlay](https://googledrive.com/host/0B6TMHf2nEKbFdFQxTjJJaGZUWm8 "VidCoin Mobile Overlay")
 
 ##Changelog
+
+###v1.2.0
+*(Released on 8 Dec. 2014)*
+- Added *animated* parameter for *playAdForPlacement* method to enable or disable the player's animation
 
 ###v1.1.0
 *(Released on 14 Nov. 2014)*
