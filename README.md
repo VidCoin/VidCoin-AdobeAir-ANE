@@ -10,7 +10,7 @@ To update, simply remove the old version of the .ane from the project, and add t
 
 | ANE version  | Packaged iOS SDK version | Packaged Android SDK versions |
 | :-------------: | :-------------: | :-------------: |
-| 1.3.0 *(latest)* | 1.2.1 | 1.0.0 |
+| 1.3.0 | 1.2.1 | 1.0.0 |
 | 1.2.0 | 1.2.0 | *NA* |
 | 1.1.0 | 1.2.0 | *NA* |
 | 1.0.0 | 1.1.2 | *NA* |
