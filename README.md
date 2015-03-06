@@ -21,7 +21,7 @@ To update, simply remove the old version of the .ane from the project, and add t
 ##Changelog
 
 ###v1.2.0
-*(Released on 8 Dec. 2014)*
+*(Released on 08 Dec. 2014)*
 - Added an *animated* parameter to the *playAdForPlacement* method, to enable or disable the player's animation
 
 ###v1.1.0
