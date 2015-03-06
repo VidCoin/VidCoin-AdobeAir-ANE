@@ -2,15 +2,16 @@ VidCoin-AdobeAir-ANE
 ===============
 ##Download and install
 
-[Download the latest release (.ane + Documentation)](https://github.com/VidCoin/VidCoin-AdobeAir-ANE/releases/download/v1.2.0/VidCoin-ANE.zip)
+[Download the latest release (.ane + Documentation)](https://github.com/VidCoin/VidCoin-AdobeAir-ANE/releases/download/v1.3.0/VidCoin-ANE.zip)
 
 To update, simply remove the old version of the .ane from the project, and add the new .ane file.
 
 ###Table of compatibility
 
-| ANE version  | Packed iOS SDK version | Packed Android SDK versions |
+| ANE version  | Packaged iOS SDK version | Packaged Android SDK versions |
 | :-------------: | :-------------: | :-------------: |
-| 1.2.0 *(latest)* | 1.2.0 | *NA* - If you're interested, please [let us know](mailto:publishers@vidcoin.com) ! |
+| 1.3.0 *(latest)* | 1.2.1 | 1.0.0 |
+| 1.2.0 | 1.2.0 | *NA* |
 | 1.1.0 | 1.2.0 | *NA* |
 | 1.0.0 | 1.1.2 | *NA* |
 
@@ -20,6 +21,11 @@ To update, simply remove the old version of the .ane from the project, and add t
 
 ##Changelog
 
+###v1.1.0
+*(Released on 06 Mar. 2015)*
+- Packages the latest iOS SDK (v1.2.1)
+- Added the first release of the Android SDK (v1.0.0)
+ 
 ###v1.2.0
 *(Released on 08 Dec. 2014)*
 - Added an *animated* parameter to the *playAdForPlacement* method, to enable or disable the player's animation
