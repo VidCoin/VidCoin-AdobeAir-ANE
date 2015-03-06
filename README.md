@@ -21,7 +21,7 @@ To update, simply remove the old version of the .ane from the project, and add t
 
 ##Changelog
 
-###v1.1.0
+###v1.3.0
 *(Released on 06 Mar. 2015)*
 - Packages the latest iOS SDK (v1.2.1)
 - Added the first release of the Android SDK (v1.0.0)
