@@ -2,7 +2,7 @@ VidCoin-AdobeAir-ANE
 ===============
 ##Download and install
 
-[Download the latest release (.ane + Documentation)](https://github.com/VidCoin/VidCoin-AdobeAir-ANE/releases/download/v1.1.0/VidCoin-ANE.zip)
+[Download the latest release (.ane + Documentation)](https://github.com/VidCoin/VidCoin-AdobeAir-ANE/releases/download/v1.2.0/VidCoin-ANE.zip)
 
 To update, simply remove the old version of the .ane from the project, and add the new .ane file.
 
