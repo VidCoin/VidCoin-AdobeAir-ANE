@@ -23,7 +23,7 @@ To update, simply remove the old version of the .ane from the project, and add t
 
 
 ##Preview
-![VidCoin Mobile Overlay](https://googledrive.com/host/0B6TMHf2nEKbFdFQxTjJJaGZUWm8 "VidCoin Mobile Overlay")
+![VidCoin Mobile Overlay](https://googledrive.com/host/0B6a-nwag10vpMkRUZTZlVWJIcTQ "VidCoin Mobile Overlay")
 
 ##Changelog
 
