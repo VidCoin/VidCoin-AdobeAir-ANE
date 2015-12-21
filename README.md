@@ -6,6 +6,11 @@ VidCoin-AdobeAir-ANE
 
 To update, simply remove the old version of the .ane from the project, and add the new .ane file.
 
+##Additional Informations
+
+###Deprecations
+Versions **1.4.0 and before** have been partly disabled. For the maximum compatibilty, make sure your app runs the latest version available.
+
 ###Table of compatibility
 
 | ANE version  | Packaged iOS SDK version | Packaged Android SDK versions |
