@@ -8,9 +8,6 @@ To update, simply remove the old version of the .ane from the project, and add t
 
 ##Additional Informations
 
-###Deprecations
-Versions **1.4.0 and before** have been partly disabled. For the maximum compatibilty, make sure your app runs the latest version available.
-
 ###Table of compatibility
 
 | ANE version  | Packaged iOS SDK version | Packaged Android SDK versions |
@@ -27,6 +24,9 @@ Versions **1.4.0 and before** have been partly disabled. For the maximum compati
 | 1.2.0 | 1.2.0 | *NA* |
 | 1.1.0 | 1.2.0 | *NA* |
 | 1.0.0 | 1.1.2 | *NA* |
+
+###Deprecations
+Versions **1.4.0 and before** have been partly disabled. For the maximum compatibilty, make sure your app runs the latest version available.
 
 
 ##Preview
