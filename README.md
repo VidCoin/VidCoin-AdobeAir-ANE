@@ -32,7 +32,7 @@ Versions **1.4.0 and before** have been partly disabled. For the maximum compati
 
 
 ##Preview
-![VidCoin Mobile Overlay](https://googledrive.com/host/0B6a-nwag10vpMkRUZTZlVWJIcTQ "VidCoin Mobile Overlay")
+![VidCoin Mobile Overlay](https://d3rud9259azp35.cloudfront.net/preview/ios.png "VidCoin Mobile Overlay")
 
 ##Changelog
 
