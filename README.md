@@ -2,7 +2,9 @@ VidCoin-AdobeAir-ANE
 ===============
 ##Download and install
 
-[Download the latest release (.ane + Documentation)](https://github.com/VidCoin/VidCoin-AdobeAir-ANE/releases/download/v1.7.1/VidCoin-ANE.zip)
+[Download the latest release (.ane + Documentation)](https://github.com/VidCoin/VidCoin-AdobeAir-ANE/releases/download/v1.8.0/VidCoin-ANE.zip)
+
+[Online Documentation](https://github.com/VidCoin/VidCoin-AdobeAir-ANE/blob/master/Documentation.md)
 
 To update, simply remove the old version of the .ane from the project, and add the new .ane file.
 
@@ -12,6 +14,7 @@ To update, simply remove the old version of the .ane from the project, and add t
 
 | ANE version  | Packaged iOS SDK version | Packaged Android SDK versions |
 | :-------------: | :-------------: | :-------------: |
+| 1.8.0 | 1.4.0 | 1.3.0 |
 | 1.7.1 | 1.3.5 | 1.2.2 |
 | 1.7.0 | 1.3.3 | 1.2.0 |
 | 1.6.1 | 1.3.2 | 1.1.6 |
@@ -30,11 +33,15 @@ To update, simply remove the old version of the .ane from the project, and add t
 ###Deprecations
 Versions **1.4.0 and before** have been partly disabled. For the maximum compatibilty, make sure your app runs the latest version available.
 
-
 ##Preview
 ![VidCoin Mobile Overlay](https://d3rud9259azp35.cloudfront.net/preview/ios.png "VidCoin Mobile Overlay")
 
 ##Changelog
+
+###v1.8.0
+*(Released on 31 Oct. 2016)*
+- Updated for the latest iOS SDK (v1.4.0)
+- Updated for the latest Android SDK (v1.3.0)
 
 ###v1.7.1
 *(Released on 02 Aug. 2016)*
