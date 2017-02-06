@@ -20,17 +20,15 @@ This also grants you access to statistics and detailed reports in our Publishers
 You can access App Creation in the “App” menu of your publisher area. The creation of an app generates an “App ID” which will be mandatory in order to use the Vidcoin web SDK.
 
 ### Placement Creation			
-A Placement represents the zone in your app where the videos will be available for broadcasting. There are different settings available for any app Placement:			
-- Minimum Payout: corresponds to the minimum revenue that a video must generate in order to be offered to a user. We recommend you to set "No minimum payout" to get more videos. We will automatically give you the highest pricing.			
-- Test Mode: when “Test Mode” is activated, the Placement will always display videos for users, without any restrictions. Test mode placements do not generate any revenue.		
+A Placement represents the zone in your app where the videos will be available for broadcasting.
 
 Basic configuration allows users to access a specific part of the app by watching a video. Once the advertisement's guaranteed duration is reached, you can unlock the content.		
 
 If you want to reward your users with items or currency, you will have more settings available : 			
 - Reward name: name of your virtual currency.		
 - You can choose 2 types of rewards for the user:		
-	- Conversion rate: rate defining how much 1€ equals of your virtual currency. Please note that we recommend that you use a low exchange rate such that 1€ = 1000 of your virtual currency. This will prevent any problems of crediting users with small amounts of virtual currency.	
-	- Fixed reward: amount of virtual currency the user will be rewarded for 1 view.	
+	- Conversion rate: rate defining how much 1€ equals of your virtual currency. Please note that we recommend that you use a low exchange rate such that 1€ = 1000 of your virtual currency. This will prevent any problems of crediting users with small amounts of virtual currency.
+	- Fixed reward: amount of virtual currency the user will be rewarded for 1 view.
 	- Callback URL (Optional): URL that will be used to validate the transaction on your servers.		
 
 ## Setting up the framework in your project
@@ -104,7 +102,6 @@ Add the following lines between the `<manifest>`:
 ```xml
 <uses-permission android:name="android.permission.INTERNET"/>
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
-<uses-permission android:name="android.permission.WAKE_LOCK"/>
 <application android:allowBackup="true">
 	<activity
 		android:name="com.vidcoin.sdkandroid.extensions.MovieActivity"
@@ -123,7 +120,7 @@ Add the following lines between the `<manifest>`:
 	<activity
 		android:name="com.vidcoin.sdkandroid.extensions.FullScreenPlayerActivity"
 		android:theme="@style/VC__AppTheme.NoActionBar.FullScreen" />
-	<service 
+	<service
 		android:name="com.vidcoin.sdkandroid.core.MediaDownloadService"
 		android:exported="false" />
 	<meta-data
@@ -133,6 +130,13 @@ Add the following lines between the `<manifest>`:
 ```
 
 If you’re seeing conflicts between Vidcoin & your own dependencies, feel free to reach out to your account manager or publishers@vidcoin.com to get a specific ANE free from all conflictual dependencies.
+
+**Optional: Add the WAKE\_LOCK permission to your manifest**
+Vidcoin recommends you to use the WAKE\_LOCK permission to your AndroidManifest.xml, using the following line :
+```xml
+<uses-permission android:name="android.permission.WAKE\_LOCK"/>
+```
+The WAKE\_LOCK permission helps the screen to stay awake during the duration of the video. It is recommended to add this to your manifest to increase user-experience, therefore more views.
 
 ### Step 3: Start the framework
 The recommended way to start Vidcoin is to place a call to `startWithGameId(gameID:String)` as soon as possible. For example, you can do as follows:
@@ -200,7 +204,7 @@ if (vidcoin.videoIsAvailableForPlacement("yourPlacementCode")) {
 	// Enable a play button
 }
 else {
-	// Disable the play button	
+	// Disable the play button
 }
 ```
 
@@ -285,7 +289,7 @@ public function handleVidCoinEvents(event:VidCoinEvents):void{
 		case VidCoinEvents.VCEventCampaignsUpdate: {
 			// Your code
 			break;
-		}	
+		}
 		case VidCoinEvents.VCEventViewWillAppear: {
 			// Your code
 			break;
@@ -320,4 +324,4 @@ This type of integration avoids proposing a user to watch a video if none is ava
 The sample app gives a good example of a recommended integration.
 
 ## Server-side callback (optional)
-If you want to use a server-side callback to credit your users, you can download our PHP SDK: https://github.com/VidCoin/VidCoin-PHP-SDK
+If you want to use a server-side callback to credit your users, please refer to the following documentation: [http://documentation.vidcoin.com/Vidcoin-Server-Callback.html](http://documentation.vidcoin.com/Vidcoin-Server-Callback.html)
