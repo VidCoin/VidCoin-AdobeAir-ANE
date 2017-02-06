@@ -304,7 +304,7 @@ public function handleVidCoinEvents(event:VidCoinEvents):void{
 ### Step 9: Submitting to the iOS AppStore
 When you submit your app for Apple’s approval, you will be asked if your app uses the Advertising Identifier. Vidcoin’s framework does use this identifier, in order to serve advertisements within your app:
 
-![Image1](https://d3rud9259azp35.cloudfront.net/documentation/Vidcoin-ANE-1.png)
+![Image1](https://documentation.vidcoin.com/images/Vidcoin-ANE-1.png)
 
 ## Advice for integration
 The integration of the Vidcoin solution must not deteriorate the user experience.
