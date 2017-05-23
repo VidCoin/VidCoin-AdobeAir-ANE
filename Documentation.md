@@ -1,10 +1,10 @@
 # Vidcoin ANE - QuickStart Guide
 
-![Vidcoin](https://d3rud9259azp35.cloudfront.net/documentation/Vidcoin-Logo.png)
+![Vidcoin](https://documentation.vidcoin.com/images/Vidcoin-Logo.png)
 
-ANE version: 1.8.1					
-Packaged iOS SDK version: 1.4.1					
-Packaged Android SDK version: 1.3.1					
+ANE version: 1.8.3					
+Packaged iOS SDK version: 1.4.2					
+Packaged Android SDK version: 1.3.3					
 Manager: https://manager.vidcoin.com			
 Contact: publishers@vidcoin.com			
 
