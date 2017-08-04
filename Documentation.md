@@ -2,11 +2,11 @@
 
 ![Vidcoin](https://documentation.vidcoin.com/images/Vidcoin-Logo.png)
 
-ANE version: 1.8.3
+ANE version: 1.8.4
 
 Packaged iOS SDK version: 1.4.2
 
-Packaged Android SDK version: 1.3.3
+Packaged Android SDK version: 1.3.4
 
 Manager: https://manager.vidcoin.com
 
