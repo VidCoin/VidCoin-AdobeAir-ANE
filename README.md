@@ -14,7 +14,7 @@ To update, simply remove the old version of the .ane from the project, and add t
 
 | ANE version  | Packaged iOS SDK version | Packaged Android SDK versions |
 | :-------------: | :-------------: | :-------------: |
-| 1.8.5 | 1.4.5 | 1.3.6 |
+| 1.8.6 | 1.4.5 | 1.3.6 |
 | 1.8.5 | 1.4.4 | 1.3.6 |
 | 1.8.4 | 1.4.2 | 1.3.4 |
 | 1.8.3 | 1.4.2 | 1.3.3 |
