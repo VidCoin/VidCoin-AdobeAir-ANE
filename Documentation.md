@@ -2,9 +2,9 @@
 
 ![Vidcoin](https://documentation.vidcoin.com/images/Vidcoin-Logo.png)
 
-ANE version: 1.8.5        
-Packaged iOS SDK version: 1.4.4        
-Packaged Android SDK version: 1.3.6        
+ANE version: 1.8.6        
+Packaged iOS SDK version: 1.4.5        
+Packaged Android SDK version: 1.3.7        
 Manager: https://manager.vidcoin.com        
 Contact: publishers@vidcoin.com        
 
@@ -33,7 +33,7 @@ If you want to reward your users with items or currency, you will have more sett
 
 ## Setting up the framework in your project
 
-*Info: the iOS framework was built using iOS SDK 10.0, and requires iOS 7.0 or greater as minimum deployment target. The Android framework was built using API 21 and Java 1.6, and requires a deployment target API equal to or greater than 10 (GINGERBREAD R1).*
+*Info: the iOS framework was built using iOS SDK 10.0, and requires iOS 7.0 or greater as minimum deployment target. The Android framework was built using API 21 and Java 1.6, and requires a deployment target API equal to or greater than 14 (ICE_CREAM_SANDWICH).*
 
 ### Step 1 : Getting the ANE
 Download and open the zip file from Github: [https://github.com/VidCoin/VidCoin-AdobeAir-ANE](https://github.com/VidCoin/VidCoin-AdobeAir-ANE)
